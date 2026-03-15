@@ -1,8 +1,48 @@
-# CS-255-System-Analysis-and-Design
-Jessica Johnson
-03/02/2025
+# System Analysis and Design - DriverPass System
 
-The client, DriverPass needed a software application that traained students for their driver test along with a few added bonus features. I think overall I did a good job of understanding the flow of a developing a system and how it applies to a real world setting. Some of my discussion posts I framed in a "real world" manner and I noticed my peers did not. :) In online learning it is hard get a feel of where you stand amongst your peers. Am I behind? Am I an average student? Or do I excell above the cureve? I think the discussions helped me realize, I am atleast average and to just keep on learning.
-If I could improve anything, it would be my sequence diagram skills. I definitly need to wsork on my diagram building.
-The client needed the system to lock the users account if they failed to login more than 5 times. So we delivered. The clients needs are top priority, second to ethical standards, so if the client needs it to lock or unlock, we will do our best to make that happen. Afterall, we are building something for them.
-I will approach designing software from a whole picture persepective. I have always been good at "putting myself in someone elses shoes" or find that little detail that connects two people or a group. I think this skill is very applicable in the software development world. I will definitly use an agile/SCRUM approach in most cases. Tools like Jira are also very helpful for designing a system. 
+Author: Jessica Johnson  
+
+## Overview
+
+This repository contains system analysis and design artifacts created for the DriverPass project. The goal of the project was to design a software system that helps students prepare for their driver's license exam through online training, practice tests, and scheduling tools.
+
+The project focuses on requirements analysis, system modeling, and software architecture planning before implementation.
+
+## Project Components
+
+The repository includes several key system design artifacts:
+
+- Business Requirements Document – defines the problem, stakeholders, and system requirements  
+- System Design Document – describes the proposed architecture and system components  
+- UML Diagrams – visual models illustrating system interactions and structure  
+- Analysis Paper – discussion of system modeling approaches
+
+## Concepts Demonstrated
+
+- Requirements analysis  
+- Stakeholder needs assessment  
+- UML system modeling  
+- System architecture planning  
+- Software development lifecycle (SDLC) documentation
+
+## UML Modeling
+
+UML diagrams are used to visualize how system components interact and how users interact with the system. These diagrams help communicate system structure and behavior before development begins.
+
+## Project Goal
+
+The objective of this project was to practice the early stages of software engineering, including gathering requirements, analyzing system needs, and designing a structured solution before development begins.
+
+## Repository Structure
+
+```
+docs/
+   business-requirements.pdf
+   system-design-document.pdf
+   uml-diagram.png
+   modeling-analysis.pdf
+```
+
+## Thank You
+
+This project strengthened my ability to approach software development from a systems perspective. Instead of immediately focusing on coding, the process emphasized understanding stakeholder needs, defining requirements, and designing a structured system before implementation.
