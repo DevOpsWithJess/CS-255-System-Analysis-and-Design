@@ -25,6 +25,10 @@ The repository includes several key system design artifacts:
 - System architecture planning  
 - Software development lifecycle (SDLC) documentation
 
+## System Architecture Diagram
+
+![DriverPass UML Diagram](docs/uml-system-diagram.pdf)
+
 ## UML Modeling
 
 UML diagrams are used to visualize how system components interact and how users interact with the system. These diagrams help communicate system structure and behavior before development begins.
@@ -37,10 +41,10 @@ The objective of this project was to practice the early stages of software engin
 
 ```
 docs/
-   business-requirements.pdf
-   system-design-document.pdf
-   uml-diagram.png
-   modeling-analysis.pdf
+   Business Requirements.docx
+   System Design.docx
+   Model Application Short Paper.docx
+   uml-system-diagram.pdf
 ```
 
 ## Thank You
